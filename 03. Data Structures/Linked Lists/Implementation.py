@@ -49,7 +49,7 @@ class LinkedList():
             self.length += 1
 
 
-#Next operation we'll implement is prepend, wehre we add a node at the head of the list.
+#Next operation we'll implement is prepend, where we add a node at the head of the list.
 #For this, we will call the prepend method and pass the value we want to enter, which will create a new object of the node class
 #Then we will make the 'next' of the new node point to the head ,as the head is currently pionting to the first node of the list
 #And then we will update the head to point to new node as we want the new node to be new first node, i.e, the new head.
