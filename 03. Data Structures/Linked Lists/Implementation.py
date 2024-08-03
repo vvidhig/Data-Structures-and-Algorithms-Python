@@ -2,7 +2,7 @@
 #It consists of nodes which contain data and a pointer to the next node in the list.
 #The list is connected with the help of these pointers.
 #These nodes are scattered in memory, quite like the buckets in a hash table.
-#The node where the list starts is called the head of theblist and the node where it ends, or last node, is called the tail of the list.
+#The node where the list starts is called the head of the list and the node where it ends, or last node, is called the tail of the list.
 #The average time complexity of some operations invloving linked lists are as follows:
 #Look-up : O(n)
 #Insert : O(n)
